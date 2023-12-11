@@ -1,0 +1,6 @@
+ERROR_ENT_CAMINO = "Tanto el origen como el destino deben ser canciones"
+ERROR_MAS_IMP = "Debe ingresar un numero"
+COMANDO_INVALIDO = "El comando ingresado no es valido"
+NO_SE_ENCONTRARON = "No se encontro recorrido"
+NO_SE_ENCONTRO_RECO = "No se encontro recorrido"
+NO_SE_ENCONTRO_CICLO = "No se encontro ciclo"
