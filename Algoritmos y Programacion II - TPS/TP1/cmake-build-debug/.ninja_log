@@ -1,0 +1,14 @@
+# ninja log v5
+15	89	7240457596201035	CMakeFiles/untitled1.dir/pila.c.obj	3822d5573208028
+8	104	7240457596331136	CMakeFiles/untitled1.dir/calc_helper.c.obj	321b6bf5b0b66796
+1	96	7240457596266092	CMakeFiles/untitled1.dir/dc.c.obj	83e7170d2a772171
+2	124	7240458531157232	untitled1.exe	aaa8f0e0554cfcda
+5	103	7240457596331136	CMakeFiles/untitled1.dir/infix.c.obj	28d4ceffe6cea17b
+4	82	7240461914251972	CMakeFiles/Algoritmos.dir/pila.c.obj	dc4149f13b35db9a
+11	103	7240457596331136	CMakeFiles/untitled1.dir/strutil.c.obj	464d86d60a1245b1
+8	98	7240461914457143	CMakeFiles/Algoritmos.dir/calc_helper.c.obj	5890be1ac0c7587
+11	99	7240461914457143	CMakeFiles/Algoritmos.dir/strutil.c.obj	c85ea9938dea93d4
+0	100	7240461914457143	CMakeFiles/Algoritmos.dir/infix.c.obj	faae3e67e0dc77c3
+100	213	7240461915513054	Algoritmos.exe	1c5284f26a696868
+2	81	7240464296099417	CMakeFiles/Algoritmos.dir/infix.c.obj	faae3e67e0dc77c3
+82	197	7240464297150321	Algoritmos.exe	1c5284f26a696868
